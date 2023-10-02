@@ -1,3 +1,4 @@
+import React from 'react';
 import { StatisticsText } from './Statistics.styled';
 
 export const Statistics = ({

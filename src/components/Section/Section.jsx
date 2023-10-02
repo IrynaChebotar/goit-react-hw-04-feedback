@@ -1,3 +1,4 @@
+import React from 'react';
 import { SectionBox, Title } from './Section.styled';
 
 export const Section = ({ title, children }) => {
